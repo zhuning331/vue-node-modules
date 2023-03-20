@@ -1,0 +1,22 @@
+{
+  "name": "vue-node-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuning331/vue-node-modules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuning331/vue-node-modules/issues"
+  },
+  "homepage": "https://github.com/zhuning331/vue-node-modules#readme",
+  "dependencies": {
+    "vue3-excel-editor": "^1.0.17"
+  }
+}
