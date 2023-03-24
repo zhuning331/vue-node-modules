@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/zhuning331/vue-node-modules#readme",
   "dependencies": {
+    "node-sass": "^8.0.0",
     "vue3-excel-editor": "^1.0.17"
   }
 }
